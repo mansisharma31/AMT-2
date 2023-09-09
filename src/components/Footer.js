@@ -12,20 +12,16 @@ const Footer = () => {
                 </div>
                 <div className="f-items" style={{fontSize:'1.6rem'}}>Our Team
                     <ul>
-                        <li style={{fontSize:'1.2rem'}}><i className="fa-solid fa-user"></i> Manya</li>
-                        <li style={{fontSize:'1.2rem'}}><i className="fa-solid fa-user"></i> Awanti</li>
-                        <li style={{fontSize:'1.2rem'}}><i className="fa-solid fa-user"></i> Abhay</li>
                         <li style={{fontSize:'1.2rem'}}><i className="fa-solid fa-user"></i> Mansi</li>
                         <li style={{fontSize:'1.2rem'}}><i className="fa-solid fa-user"></i> Tanishq</li>
                     </ul>
                 </div>
-                <div className="f-items" style={{fontSize:'1.6rem'}}>Tech Stack
+                <div className="f-items" style={{fontSize:'1.6rem'}}>Connect Us
                     <ul>
-                        <li style={{fontSize:'1.2rem'}}><a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank">ReactJs</a></li>
-                        <li style={{fontSize:'1.2rem'}}><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a></li>
-                        <li style={{fontSize:'1.2rem'}}><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></li>
-                        <li style={{fontSize:'1.2rem'}}><a href="https://nodejs.org/en" target="_blank">NodeJs</a></li>
-                        <li style={{fontSize:'1.2rem'}}><a href="https://expressjs.com/" target="_blank">ExpressJs</a></li>
+                        <li style={{fontSize:'1.2rem'}}><a href="www.linkedin.com/in/mansi-sharma-aaa4b8229" target="_blank">Mansi's LInkedin</a></li>
+                        <li style={{fontSize:'1.2rem'}}><a href="www.linkedin.com/in/tanishq-sadija-64b1bb24a" target="_blank">Tanishq's LInkedin</a></li>
+                        <li style={{fontSize:'1.2rem'}}><a href="github.com/mansisharma31" target="_blank">Mansi's Github</a></li>
+                        <li style={{fontSize:'1.2rem'}}><a href="https://github.com/Tani-ishq" target="_blank">Tanishq's Github</a></li>
                     </ul>
                 </div>
             </div>
